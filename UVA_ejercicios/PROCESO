@@ -1,18 +1,18 @@
 PROCESO:
 Containers:
--C1:
--C2:
--C3:
+-C1: Listo
+-C2: Listo
+-C3: Listo
 Algoritmos:
 -A1: Listo
--A2: Listo
--A3:
+-A2: 
+-A3: Listo
 Sorts:
 -S1: Listo
--S2:
--S3:
+-S2: Listo
+-S3: Listo
 Associative Containers:
--M1:
--M2:
--M3:
+-M1: Listo
+-M2: Listo
+-M3: Listo
 
